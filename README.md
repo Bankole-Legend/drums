@@ -26,6 +26,7 @@ You are provided with the basic HTML and CSS files and other assets. You are req
   
  - Also When the curresponding key is pressed on the key board, the drum sound should be made. 
   
+  
   Key to each drum
   button w = tom-1.mp3
   button a = tom-2.mp3
@@ -34,15 +35,9 @@ You are provided with the basic HTML and CSS files and other assets. You are req
   button j = kick-bass.mp3
   button k = snare.mp3
   button l = crash.mp3
+
  
-  NOTE
-  Codes must be properly commented. 
-  Use of ES6 Syntax is important. 
-
-
-
-
-6. To submit your project, send a link to your project repository to the insturctor provately on slack.
+3. To submit your project, send a link to your project repository to the insturctor provately on slack.
 
 
 
