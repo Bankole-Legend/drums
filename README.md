@@ -36,6 +36,12 @@ You are provided with the basic HTML and CSS files and other assets. You are req
   button k = snare.mp3
   button l = crash.mp3
 
+
+## Note
+ 1. Codes must be properly commented.
+ 2. Use Es6 syntax where possible.
+ 
+ 
  
 3. To submit your project, send a link to your project repository to the insturctor provately on slack.
 
