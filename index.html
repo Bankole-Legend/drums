@@ -12,16 +12,26 @@
 
   <h1 id="title">Drum 🥁 Kit</h1>
   <div class="set">
-    <button class=" drum">w</button>
-    <button class=" drum">a</button>
-    <button class=" drum">s</button>
-    <button class=" drum">d</button>
-    <button class=" drum">j</button>
-    <button class=" drum">k</button>
-    <button class=" drum">l</button>
+    <!-- Add the audio file to each button as described in the read me file -->
+    <!-- id for each button in order to call it in the javascript file  -->
+    <!-- an onclick for a click function to all the buttons, each function being called from the javascript file  -->
+    <audio id="w"> <source src="sounds/tom-1.mp3" type="audio/mp3"></audio>
+      <button class=" drum one" onclick="playAudio()"> w</button> 
+      <audio id="a"> <source src="sounds/tom-2.mp3" type="audio/mp3"></audio>
+    <button class=" drum two"  onclick="playAudio1()">a</button>
+    <audio id="s"> <source src="sounds/tom-3.mp3" type="audio/mp3"></audio>
+    <button class=" drum three"  onclick="playAudio2()">s</button>
+    <audio id="d"> <source src="sounds/tom-4.mp3" type="audio/mp3"></audio>
+    <button class=" drum four"  onclick="playAudio3()">d</button>
+    <audio id="j"> <source src="sounds/kick-bass.mp3" type="audio/mp3"></audio>
+    <button class=" drum five"  onclick="playAudio4()">j</button>
+    <audio id="k"> <source src="sounds/snare.mp3" type="audio/mp3"></audio>
+    <button class=" drum six"  onclick="playAudio5()">k</button>
+    <audio id="l"> <source src="sounds/crash.mp3" type="audio/mp3"></audio>
+    <button class=" drum seven"  onclick="playAudio6()">l</button>
   </div>
 
-
+   
   <footer>
     The Drum Kit.
   </footer>
