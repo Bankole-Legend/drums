@@ -71,7 +71,8 @@ function playAudio6(){
 document.addEventListener("keydown", (e) =>{ //also use function(e)
     e.keyCode == 87?playAudio():e.keyCode == 65?playAudio1():
     e.keyCode == 83?playAudio2():e.keyCode == 68?playAudio3():
-    e.keyCode == 74?playAudio4():e.keyCode == 75?playAudio5():playAudio6()
+    e.keyCode == 74?playAudio4():e.keyCode == 75?playAudio5():
+    e.keyCode == 76?playAudio6():donothing
 })
 
 

@@ -2,49 +2,12 @@
 
 This is a set of drums that you can play online using a mouse or designated keyboard keys
 
-## Getting Started
 
-This is a required JavaScript project for all students of FullStack Developer Academy to complete in other to graduate.
-You are provided with the basic HTML and CSS files and other assets. You are required to write your javascript codes in the app.js file.
+### Notes and Contributions
 
- 
+ -  This is the drum kit project
 
-### Instructions
-
-1. You are to fork this repo to get started on your project.
-
-2. This is the drum kit project
-
- - You are provided with an images folder which contains drum images. 
- - You are required to attache each drum image to each alphabet in the html file.
-  
- - You are also provided with a sounds folder.
-  
- - You are to attach each sound to the images and button in the html.
-  
- - When you click on each button it should play the curresponding drum sound. 
-  
- - Also When the curresponding key is pressed on the key board, the drum sound should be made. 
-  
-  
-  Key to each drum
-  button w = tom-1.mp3
-  button a = tom-2.mp3
-  button s = tom-3.mp3
-  button d = tom-4.mp3
-  button j = kick-bass.mp3
-  button k = snare.mp3
-  button l = crash.mp3
-
-
-## Note
- 1. Codes must be properly commented.
- 2. Use Es6 syntax where possible.
- 
- 
- 
-3. To submit your project, send a link to your project repository to the insturctor provately on slack.
-
+ - Pull requests are welcome. For major changes open an issue first to discuss what you would like to change.
 
 
 ## Built With
@@ -61,7 +24,27 @@ You can visit this [Link](https://full-stack-developer-academy.github.io/drums/)
 
 
 ## License
+MIT License
 
+Copyright (c) [2020] [Bankole Adefemi]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 
 
