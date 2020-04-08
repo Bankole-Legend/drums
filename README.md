@@ -19,7 +19,7 @@ This is a set of drums that you can play online using a mouse or designated keyb
 
 ## Link
 
-You can visit this [Link](https://full-stack-developer-academy.github.io/drums/) to see the web app (Note this web app is not functional).
+You can visit this [Link](https://github.com/Bankole-Legend/drums.git/) to see the web app (Note this web app is not functional).
 
 
 
